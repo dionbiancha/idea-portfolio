@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1613726465/github/1212_mkobln.png">
+  <img alt="Print" src="https://github.com/dionbiancha/idea-portfolio/blob/main/src/assets/gif/Readme.gif?raw=true">
 </p>
 
 <p align="center">
