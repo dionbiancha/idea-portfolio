@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dionbiancha.github.io/idea-portfolio/" target="_blank">
+  <a href="https://idea-portfolio.vercel.app/" target="_blank">
     <img alt="N33dful" src="https://res.cloudinary.com/dionbiancha/image/upload/v1610500435/github/view_on_github_n2rq43.png">
   </a>
 </p>
